@@ -84,8 +84,15 @@
 <hr/>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/ehkarabas"><img alt="Huseyin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ehkarabas&custom_title=Huseyin's%20Contribution%20Graph&theme=xcode" /></a>
 
+
+[![Huseyin's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ehkarabas&custom_title=Huseyin's%20Activity%20Graph&hide_border=true&area=true&theme=github-compact)](https://github.com/ehkarabas/github-readme-activity-graph)
+<!--
+[![Huseyin's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ehkarabas&custom_title=Huseyin's%20Activity%20Graph&hide_border=true&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&theme=react-dark)](https://github.com/ehkarabas/github-readme-activity-graph)
+-->
+<!--
+<a href="https://github.com/ehkarabas"><img alt="Huseyin's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ehkarabas&custom_title=Huseyin's%20Contribution%20Graph&theme=xcode" /></a>
+-->
 
 <hr/>
 
