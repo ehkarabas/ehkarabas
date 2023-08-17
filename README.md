@@ -1,51 +1,71 @@
 <h1 align="center">Hi , I'm Huseyin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/ehkarabas"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer+In+Progress;JavaScript%20|%20Python%20|%20React%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/ehkarabas"><img src="https://readme-typing-svg.herokuapp.com?lines=Developer+In+Progress;JS%20|%20Python%20|%20React%20|%20Django%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 
 <h4 align="center">
 	I am passionate about IT, coding, and web technologies.<br>
 	I am on a path to being a FullStack Developer based in Turkey.<br>
-	I enjoy learning new things daily in the FullStack developer program at a Bootcamp until July 2023. I like to share and collaborate. <br />
+	I enjoy learning new things daily in the FullStack developer program at a Bootcamp until December 2023. I like to share and collaborate. <br />
 </h4>
 <br>
 <hr/> 
 
+<!-- https://badges.pages.dev/ -->
 ## Skills:
 
 #### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
-<!-- ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp; -->
+<!--![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;-->
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a> &nbsp; &nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> </a> &nbsp; &nbsp;
+<a href="https://devdocs.io/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> </a> &nbsp; &nbsp;
+<a href="https://devdocs.io/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </a> &nbsp; &nbsp;
+<a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" /> </a> &nbsp; &nbsp;
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" alt="Typescript" /> </a> &nbsp; &nbsp;
+
 
 #### Database
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-<!--![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp; -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </a> &nbsp; &nbsp;
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </a> &nbsp; &nbsp;
+<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" alt="MongoDB" /> </a> &nbsp; &nbsp; -->
 
 
 #### Tools and Technologies
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)&nbsp;
-<!-- ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp; -->
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> </a> &nbsp; &nbsp;
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a> &nbsp; &nbsp;
+<a href="https://docs.github.com/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" /> </a> &nbsp; &nbsp;
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /> </a> &nbsp; &nbsp;
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> </a> &nbsp; &nbsp;
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase" /> </a> &nbsp; &nbsp;
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker" /> </a> &nbsp; &nbsp;
+<!-- <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Heroku" /> </a> &nbsp; &nbsp; -->
+
 
 #### IDEs
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /> </a> &nbsp; &nbsp;
+<a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> </a> &nbsp; &nbsp;
+<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /> </a> &nbsp; &nbsp;
 
-<!-- #### Frameworks
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp; 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp; -->
+
+#### Frameworks
+
+<a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> </a> &nbsp; &nbsp;
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> </a> &nbsp; &nbsp;
+<!-- <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /> </a> &nbsp; &nbsp;
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat" alt="ExpressJS" /> </a> &nbsp; &nbsp; -->
+
+
+#### Libraries
+
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge" alt="Redux" /> </a> &nbsp; &nbsp;
+<a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge" alt="MUI" /> </a> &nbsp; &nbsp;
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind" /> </a> &nbsp; &nbsp;
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap" /> </a> &nbsp; &nbsp;
 <br>
 <hr/>
 
@@ -86,7 +106,7 @@
 ## ⚡ Recent GitHub Activity
 
 
-[![Huseyin's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ehkarabas&custom_title=Huseyin's%20Activity%20Graph&hide_border=true&area=true&theme=github-compact)](https://github.com/ehkarabas/github-readme-activity-graph)
+![Huseyin's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ehkarabas&custom_title=Huseyin's%20Activity%20Graph&hide_border=true&area=true&theme=github-compact)
 <!--
 [![Huseyin's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=ehkarabas&custom_title=Huseyin's%20Activity%20Graph&hide_border=true&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&theme=react-dark)](https://github.com/ehkarabas/github-readme-activity-graph)
 -->
@@ -114,9 +134,7 @@
 </div>
 
 <!--
-**ehkarabas/ehkarabas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Additional infos to enrich:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
