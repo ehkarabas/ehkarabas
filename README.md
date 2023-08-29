@@ -42,6 +42,7 @@
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> </a> &nbsp; &nbsp;
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase" /> </a> &nbsp; &nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker" /> </a> &nbsp; &nbsp;
+<a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=fff&style=for-the-badge" alt="Sanity" /> </a> &nbsp; &nbsp;
 <!-- <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Heroku" /> </a> &nbsp; &nbsp; -->
 
 
