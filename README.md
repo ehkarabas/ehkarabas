@@ -7,7 +7,7 @@
 <h4 align="center">
 	I am passionate about IT, coding, and web technologies.<br>
 	I am on a path to being a FullStack Developer based in Turkey.<br>
-	I enjoy learning new things daily in the FullStack developer program at a Bootcamp until December 2023. I like to share and collaborate. <br />
+	I enjoy learning new things daily in the FullStack developer program at a Bootcamp until May 2024. I like to share and collaborate. <br />
 </h4>
 <br>
 <hr/> 
