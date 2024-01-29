@@ -43,7 +43,11 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=for-the-badge" alt="Firebase" /> </a> &nbsp; &nbsp;
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge" alt="Docker" /> </a> &nbsp; &nbsp;
 <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sanity-F03E2F?logo=sanity&logoColor=fff&style=for-the-badge" alt="Sanity" /> </a> &nbsp; &nbsp;
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff&style=for-the-badge" alt="Prisma" /> </a> &nbsp; &nbsp;
 <a href="https://www.planetscale.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PlanetScale-000?logo=planetscale&logoColor=fff&style=for-the-badge" alt="Planetscale" /> </a> &nbsp; &nbsp;
+<a href="https://tanstack.com/query/latest/docs/framework/react/overview" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React%20Query-FF4154?logo=reactquery&logoColor=fff&style=for-the-badge" alt="Planetscale" /> </a> &nbsp; &nbsp;
+<a href="https://react-hook-form.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/React%20Hook%20Form-EC5990?logo=reacthookform&logoColor=fff&style=for-the-badge" alt="React Hook Form" /> </a> &nbsp; &nbsp;
+<a href="https://zod.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Zod-3E67B1?logo=zod&logoColor=fff&style=for-the-badge" alt="Zod" /> </a> &nbsp; &nbsp;
 <!-- <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat" alt="Heroku" /> </a> &nbsp; &nbsp; -->
 
 
@@ -67,6 +71,7 @@
 
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=fff&style=for-the-badge" alt="Redux" /> </a> &nbsp; &nbsp;
 <a href="https://mui.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=fff&style=for-the-badge" alt="MUI" /> </a> &nbsp; &nbsp;
+<a href="https://ui.shadcn.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff&style=for-the-badge" alt="Shadcn" /> </a> &nbsp; &nbsp;
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff&style=for-the-badge" alt="Tailwind" /> </a> &nbsp; &nbsp;
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" alt="Bootstrap" /> </a> &nbsp; &nbsp;
 <a href="https://daisyui.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?logo=daisyui&logoColor=fff&style=for-the-badge" alt="DaisyUI" rel="noreferrer"> </a> &nbsp; &nbsp;
