@@ -68,7 +68,7 @@
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> </a> &nbsp; &nbsp;
 <a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&style=for-the-badge&logoColor=fff)" alt="NextJS" rel="noreferrer"> </a> &nbsp; &nbsp;
 <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /> </a> &nbsp; &nbsp;
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat" alt="ExpressJS" /> </a> &nbsp; &nbsp;
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express&logoColor=fff" alt="ExpressJS" /> </a> &nbsp; &nbsp;
 
 
 #### Libraries
