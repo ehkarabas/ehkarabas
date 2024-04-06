@@ -16,7 +16,6 @@
 ## Skills:
 
 #### Languages:
-<!--![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;-->
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a> &nbsp; &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> </a> &nbsp; &nbsp;
@@ -28,9 +27,14 @@
 
 #### Database
 
+<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=fff" alt="SQLite" /> </a> &nbsp; &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> </a> &nbsp; &nbsp;
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> </a> &nbsp; &nbsp;
-<!-- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat" alt="MongoDB" /> </a> &nbsp; &nbsp; -->
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff" alt="MongoDB" /> </a> &nbsp; &nbsp;
+
+#### ORMS/ODMS
+<a href="https://sequelize.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=fff" alt="Sequelize" /> </a> &nbsp; &nbsp;
+<a href="https://mongoosejs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Mongoose-800?style=for-the-badge&logo=mongoose&logoColor=fff" alt="Mongoose" /> </a> &nbsp; &nbsp;
 
 
 #### Tools and Technologies
@@ -63,8 +67,8 @@
 <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" /> </a> &nbsp; &nbsp;
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> </a> &nbsp; &nbsp;
 <a href="https://www.nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&style=for-the-badge&logoColor=fff)" alt="NextJS" rel="noreferrer"> </a> &nbsp; &nbsp;
-<!-- <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /> </a> &nbsp; &nbsp;
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat" alt="ExpressJS" /> </a> &nbsp; &nbsp; -->
+<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" /> </a> &nbsp; &nbsp;
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat" alt="ExpressJS" /> </a> &nbsp; &nbsp;
 
 
 #### Libraries
@@ -87,10 +91,7 @@
 <a href="https://www.linkedin.com/in/huseyinkarabas/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /> </a> &nbsp; &nbsp;
 <a href="https://wa.me/+905321315454" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" alt="Whatsapp" /> </a> &nbsp; &nbsp;
 <a href="https://portfolio-ehkarabas.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /> </a> &nbsp; &nbsp;
-<!-- [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://ehkarabas.github.io) 
-[<img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>](https://stackoverflow.com/users/19708294/huseyin)
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@ehkarabas)
-[<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />](https://twitter.com/HuseyinKarabas_) -->
+
 </p>
 <br>
 <hr/>
