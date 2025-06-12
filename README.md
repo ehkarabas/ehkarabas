@@ -12,12 +12,14 @@
 <hr/> 
 
 <!-- https://badges.pages.dev/ -->
+<!-- https://ileriayo.github.io/markdown-badges/ -->
 ## Skills:
 
 #### Languages:
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> </a> &nbsp; &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> </a> &nbsp; &nbsp;
+<a href="https://docs.oracle.com/en/java/javase/23/docs/api/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /> </a> &nbsp; &nbsp;
 <a href="https://devdocs.io/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> </a> &nbsp; &nbsp;
 <a href="https://devdocs.io/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> </a> &nbsp; &nbsp;
 <a href="https://sass-lang.com/documentation/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" /> </a> &nbsp; &nbsp;
@@ -57,6 +59,7 @@
 #### IDEs
 
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" /> </a> &nbsp; &nbsp;
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJIdea" /> </a> &nbsp; &nbsp;
 <a href="https://jupyter.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /> </a> &nbsp; &nbsp;
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim" /> </a> &nbsp; &nbsp;
 
@@ -89,7 +92,7 @@
 <a href="mailto:ehkarabas@gmail.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /> </a> &nbsp; &nbsp;
 <a href="https://www.linkedin.com/in/huseyinkarabas/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /> </a> &nbsp; &nbsp;
 <a href="https://wa.me/+905321315454" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=for-the-badge" alt="Whatsapp" /> </a> &nbsp; &nbsp;
-<a href="https://portfolio-ehkarabas.netlify.app/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /> </a> &nbsp; &nbsp;
+<a href="https://portfolio.ehkarabas.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /> </a> &nbsp; &nbsp;
 
 </p>
 <br>
